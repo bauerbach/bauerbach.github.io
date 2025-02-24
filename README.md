@@ -1,3 +1,5 @@
+theme: cayman
+
 # Bradley Wayne Auerbach
 Welcome to my personal portfolio! I am a A.S. Computer Science graduate at Northern Virginia Community College.
 
